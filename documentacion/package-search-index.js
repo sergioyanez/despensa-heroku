@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.despensa"},{"l":"com.despensa.config"},{"l":"com.despensa.controller"},{"l":"com.despensa.dto"},{"l":"com.despensa.model"},{"l":"com.despensa.repository"},{"l":"com.despensa.servicios"},{"l":"com.despensa.utils"}];updateSearchResults();
