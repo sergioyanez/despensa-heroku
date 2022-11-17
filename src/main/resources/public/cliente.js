@@ -1,5 +1,5 @@
 'use strict'
-let url = "http://localhost:9000/cliente";
+let url = "http://ec2-52-205-98-159.compute-1.amazonaws.com/cliente";
 
 let btnGet = document.getElementById("btnGet");
 btnGet.addEventListener("click", mostrarTabla());
