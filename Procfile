@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -cp target/classes:target/dependency/* com.despensa
+web: java -Dserver.port=$PORT $JAVA_OPTS -cp target/classes:target/dependency/* com.despensa.controller
