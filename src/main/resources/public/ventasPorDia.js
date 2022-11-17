@@ -1,5 +1,5 @@
 'use strict'
-let url = "http://localhost:9000/venta/ventasPorDia";
+let url = "http://demo-despensa.herokuapp.com/venta/ventasPorDia";
 
 let btnGet = document.getElementById("btnGet");
 btnGet.addEventListener("click", mostrarTabla());
